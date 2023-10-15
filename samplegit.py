@@ -1,2 +1,2 @@
-print("My frist exmple for git teste ")
+print("My second exmple for git teste ")
 
